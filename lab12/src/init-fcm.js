@@ -3,9 +3,9 @@ import "firebase/messaging";
 
 firebase.initializeApp({
   apiKey: "AIzaSyActv-KAaqDAqmBzLmJwLjVR8NbHfgSA-w",
-  authDomain: "react-sec02-088.firebaseapp.com",
-  projectId: "react-sec02-088",
-  storageBucket: "react-sec02-088.appspot.com",
+  authDomain: "react-sec02-004.firebaseapp.com",
+  projectId: "react-sec02-004",
+  storageBucket: "react-sec02-004.appspot.com",
   messagingSenderId: "511775363833",
   appId: "1:511775363833:web:a6aa2d9320546e79588828"
 });
